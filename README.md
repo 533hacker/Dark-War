@@ -8,6 +8,6 @@ $ pip install requests
 $ pip install mechanize
 $ pip2 install reuqests
 $ pip2 install mechanize
-$ git clone https://github.com/533hacker/Dark_War
+$ git clone https://github.com/533hacker/Dark-War
 $ cd Dark_War
 $ python2 Dark_War.py
